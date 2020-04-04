@@ -12,6 +12,6 @@ Use Data Mining and Machine Learning techniques to extract drivers of prices of 
 - Random Forest for feature importance
 
 ## :computer: Machine Learning
-- Time Series Analysis (real-estate price from 1990 to 2020)
-- Linear Regression to determine coefficient of each feature
+- Time Series Analysis (houses prices from 1990 to 2020)
+- Linear Regression to determine coefficients of features
 - Random Forest to predict price of the house
