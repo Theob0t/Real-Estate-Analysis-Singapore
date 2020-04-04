@@ -1,4 +1,4 @@
-# :singapore: :hotel: Singaporean Real Estate Analysis :hotel: :singapore:
+# :sg: :hotel: Singaporean Real Estate Analysis :hotel: :sg:
 Use Data Mining and Machine Learning techniques to extract drivers of prices of houses in Singapore
 
 ## :mag_right: Data Collection
