@@ -15,3 +15,5 @@ Use Data Mining and Machine Learning techniques to extract drivers of prices of 
 - Time Series Analysis (houses prices from 1990 to 2020)
 - Linear Regression to determine coefficients of features
 - Random Forest to predict price of the house
+
+Here is the presentation of the results : [link](https://github.com/Theob0t/Real-Estate-Analysis-Singapore/blob/master/REAL%20ESTATE%20ANALYSIS.pdf)
